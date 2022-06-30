@@ -1,0 +1,6 @@
+---
+title: "Meet Sampada!"
+---
+
+![sampada's picture](pictures/sampada.jpg){style="float:left;" width="130"} Sampada is a rising senior at Brandeis University. She is double majoring in Computer Science and Business.
+
