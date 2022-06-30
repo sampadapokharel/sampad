@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "\n\nEducation 📚\n\n",
+    "section": "",
+    "text": "2019 - Present    Brandeis University   Waltham, MA\n\n\n Relevant Coursework \n\n Computer Science:  Fundamentals of Software Engineering, Theory of Computation, Data Structures and the Fundamentals of Computing, Discrete Structures, Advance Programming Techniques in Java, Techniques of Calculus, Probability and Statistics, Introduction to Problem Solving in Python\n Business:  Intermediate Financial Accounting, Marketing Management, Organizational Behavior in Business, Real Estate and Society, Introduction to Finance, Data Analytics with Excel, Financial Accounting, Introduction to Micro Economics\n\n\n Future Coursework \n\n Computer Science:  Software Entrepreneurship, Operating Systems, Capstone\n Business:  Corporate Finance"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": " Meet Sampada! ",
+    "section": "",
+    "text": "Connect with Sampada!"
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "\n\nWork Experience 💼\n\n",
+    "section": "",
+    "text": "Resume"
+  },
+  {
+    "objectID": "techskills.html",
+    "href": "techskills.html",
+    "title": "\n\nTechnical Skills 💻\n\n",
+    "section": "",
+    "text": "Database \nMongoDB\n\n\n Tools/Technologies \nGit/Github, Unix/Lunix, Shell \nResume"
+  }
+]

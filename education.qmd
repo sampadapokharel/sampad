@@ -1,0 +1,22 @@
+---
+title: <b> <hr> Education 📚 <hr> </b>
+---
+<h4><b> Bachelor of Arts, Computer Science and Business </b></h4>
+
+2019 - Present <br> <br> <b> Brandeis University </b> <br> Waltham, MA
+
+<hr>
+
+<h3><b> Relevant Coursework </b></h3>
+
+<b> Computer Science: </b> Fundamentals of Software Engineering, Theory of Computation, Data Structures and the Fundamentals of Computing, Discrete Structures, Advance Programming Techniques in Java, Techniques of Calculus, Probability and Statistics, Introduction to Problem Solving in Python
+
+<b> Business: </b> Intermediate Financial Accounting, Marketing Management, Organizational Behavior in Business, Real Estate and Society, Introduction to Finance, Data Analytics with Excel, Financial Accounting, Introduction to Micro Economics
+
+<hr>
+
+<h3> <b> Future Coursework </b></h3>
+
+<b> Computer Science: </b> Software Entrepreneurship, Operating Systems, Capstone
+
+<b> Business: </b> Corporate Finance

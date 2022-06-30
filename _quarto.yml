@@ -1,19 +1,22 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Sampada Pokharel"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - href: education.qmd
+        text: Education|Coursework
+      - href: portfolio.qmd
+        text: Work Experience
+      - href: techskills.qmd
+        text: Skills
 
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true
 
 editor: visual
-

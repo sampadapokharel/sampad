@@ -1,0 +1,17 @@
+---
+title: <b> <hr> Technical Skills 💻 <hr> </b>
+---
+#### <b> Programming Languages </b>
+
+Java, Python, JavaScript, R
+
+#### <b> Database </b>
+
+MongoDB
+
+#### <b> Tools/Technologies </b>
+
+Git/Github, Unix/Lunix, Shell <br>
+
+
+<a href="resume.pdf" class="btn btn-info" role="button">Resume </a>
