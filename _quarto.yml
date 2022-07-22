@@ -12,10 +12,15 @@ website:
         text: Work Experience
       - href: techskills.qmd
         text: Skills
+    right: 
+      - icon: github
+        href: https://github.com/sampadapokharel
+      - icon: linkedin
+        href: https://github.com/sampadapokharel
 
 format:
   html:
-    theme: minty
+    theme: theme.scss
     css: styles.css
     toc: true
 

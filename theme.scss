@@ -1,0 +1,41 @@
+/*-- scss:defaults --*/
+
+$primary: #FAC9BA !default;
+$body-bg: #F8E6E4 !default;
+$body-color: #808080 !default;
+$font-family-base: 'Lato', 'Source Sans Pro', 'Nunito', 'Fira Sans' !default;
+$headings-font-family: 'Lato', 'Source Sans Pro', 'Nunito', 'Fira Sans' !default;
+
+
+/*-- scss:rules --*/
+
+.navbar-dark .navbar-brand {
+    color: #5C5C5C;
+    font-family: 'Lato', $headings-font-family;
+    font-size: $font-size-base * 1.5;
+}
+
+.navbar-dark .navbar-nav .show>.nav-link, .navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active {
+    color: #5C5C5C;
+    font-family: 'Lato', $headings-font-family;
+    font-size:  $font-size-base * 1;
+}
+.navbar-dark .navbar-nav .show>.nav-link, .navbar-dark .navbar-nav .active>.nav-link, .navbar-dark .navbar-nav .nav-link.active {
+    color: #5C5C5C;
+    font-family: 'Lato', $headings-font-family;
+    font-size:  $font-size-base * 1;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #5C5C5C;
+    font-family: 'Lato', $headings-font-family;
+    font-size:  $font-size-base * 1;
+}
+
+.navbar #quarto-search.type-overlay .aa-Autocomplete svg.aa-SubmitIcon {
+    width: 20px;
+    height: 20px;
+    color: #4b3c38;
+    opacity: 1;
+    float: left;
+}

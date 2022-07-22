@@ -1,7 +1,7 @@
 ---
 title: <b> <hr> Technical Skills 💻 <hr> </b>
 ---
-#### <b> Programming Languages </b>
+#### <b>Programming Languages </b>
 
 Java, Python, JavaScript, R
 
@@ -13,5 +13,20 @@ MongoDB
 
 Git/Github, Unix/Lunix, Shell <br>
 
+<style>
+a:link, a:visited {
+  background-color: #FAC9BA;
+  color: grey;
+  padding: 8px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: #FAC9BA;
+}
+</style>
 
 <a href="resume.pdf" class="btn btn-info" role="button">Resume </a>
+ 
