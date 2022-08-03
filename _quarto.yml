@@ -15,13 +15,20 @@ website:
     right: 
       - icon: github
         href: https://github.com/sampadapokharel
+        aria-label: GitHub
       - icon: linkedin
-        href: https://github.com/sampadapokharel
+        href: https://www.linkedin.com/in/pokharelsampada
+        aria-label: LinkedIn
+  
+  page-footer: 
+    left: "Copyright 2022, Sampada Pokharel" 
+    right: 
+      - icon: github
+        href: https://github.com/sampadapokharel/sampadapokharel.github.io
 
 format:
   html:
     theme: theme.scss
     css: styles.css
-    toc: true
 
 editor: visual

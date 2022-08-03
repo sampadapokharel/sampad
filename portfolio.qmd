@@ -2,7 +2,29 @@
 title: <b> <hr> Work Experience 💼<hr> </b>
 ---
 
-Sampada's goal is to get exposed to many different technology and business roles as possible. She has been able to do so by joining clubs at Brandeis and also interning over the summer. Here are some of the company Sampada has had the pleasure to intern at since starting her undergraduate degree.
+My goal is to get exposed to as many technical and business roles as possible. I have been able to explore different career paths by joining clubs at Brandeis and also interning over the summer. Below are some of the companies I have had the pleasure to intern and learn a lot from.
+
+![**Bristol Myers Squibb**](pictures/bms.png){width="400"}
+
+Data Science Intern
+
+![**Agenus**](pictures/agenus.png){width="300"}
+
+Quality Assurance Intern
+
+![**Taptapes**](pictures/taptapes.png){width="300"}
+
+Front-End Junior Software Developer 
+
+![**Reigo**](pictures/reigo.png){width="250"}
+
+Business Consultant
+
+![**Each1Teach1**](pictures/each1teach1.png){width="200"}
+
+Team Leader 
+
+<hr>
 
 <style>
 a:link, a:visited {
@@ -20,4 +42,3 @@ a:hover, a:active {
 </style>
 
 <a href="resume.pdf" class="btn btn-info" role="button">Resume </a>
- <br> <br> ![Bristol Myers Squibb](pictures/bms.jpg){width="300"} ![Agenus](pictures/agenus.jpg){width="300"} ![Taptapes](pictures/taptapes.png){width="300"} ![Reigo](pictures/reigo.png){width="250"} ![Each1Teach1](pictures/each1teach1.png){width="200"}

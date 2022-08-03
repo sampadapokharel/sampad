@@ -1,5 +1,9 @@
 ---
-title: <hr><b> Meet Sampada! </b><hr>
+title: <hr><b> About Me </b><hr>
 ---
 
-<img src="pictures/sampada.jpg" alt="Sampada" width="200" height="220" style="float:left;margin:10px 10px"/> Sampada is a rising senior at Brandeis University. She is double majoring in Computer Science and Business.
+<img src="pictures/sampada.jpg" alt="Sampada" width="400" height="300" style="float:left;margin:3px 20px"/> 
+
+Hi, I am Sampada! I am a rising senior at Brandeis University, double majoring in Computer Science and Business. I am someone who loves to learn and enjoys being challenged! In the middle of my undergraduate journey, I discovered my love for technology and have been learning new and more technical skills every since.  
+
+I believe there is always more to learn. That is one of the reasons why I do not say no to anything. I try to take advantage of every opportunity in my way and expand my knowledge on different topics. Through my strong technical skills and willingness to learn, I aspire to continue working in the biotechnology industry and contribute to helping finding cures for illnesses and conditions. 
